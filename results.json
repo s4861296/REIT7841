@@ -1,0 +1,7762 @@
+{
+  "schema_version": 1,
+  "label_mapping": {
+    "0": "clean",
+    "1": "bug"
+  },
+  "experiments": [
+    {
+      "id": "components_full",
+      "dataset": "Real-97",
+      "method": "full",
+      "protocol": "fixed_weight_input_intervention",
+      "records": [
+        {
+          "sample_id": "C04",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_D02",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_D04",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_D07",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_D08",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_D09",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_D11",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_D12",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_D13",
+          "label": 0,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "CLEAN_D14",
+          "label": 0,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "CLEAN_D15",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_G01",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_G02",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_G03",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_G05",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_G06",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_G07",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_G10",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_G11",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_G15",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_G16",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_G17",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_G18",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_G20",
+          "label": 0,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "CLEAN_G21",
+          "label": 0,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "CLEAN_G24",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_G27",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_G28",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_G29",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_G30",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_G32",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_G36",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_G37",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_G38",
+          "label": 0,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "CLEAN_G39",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_R01",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_R02",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_R03",
+          "label": 0,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "CLEAN_R04",
+          "label": 0,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "CLEAN_R05",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_R06",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_R07",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_R08",
+          "label": 0,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "CLEAN_R09",
+          "label": 0,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "CLEAN_R10",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_R11",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_R12",
+          "label": 0,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "CLEAN_R13",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_R14",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_R15",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "H01",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "H02",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "H03",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "H04",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "H05",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "H06",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "H07",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "H08",
+          "label": 1,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "H09",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "H10",
+          "label": 1,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "H12",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "H13",
+          "label": 1,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "H14",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "H15",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "H16",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "N01",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "N06",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "N09",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "N11",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "N12",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "N13",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "N17",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "N18",
+          "label": 1,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "N19",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "N20",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "N21",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "N25",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "N27",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "N29",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "N30",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "N34",
+          "label": 1,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "N35",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "N38",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "N45",
+          "label": 1,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "N48",
+          "label": 1,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "N49",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "N50",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "N51",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "N56",
+          "label": 1,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "N57",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "N59",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "N62",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "N63",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "N64",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "N65",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "N70",
+          "label": 1,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "N71",
+          "label": 1,
+          "predicted_label": 1
+        }
+      ],
+      "expected_counts": {
+        "tp": 36,
+        "tn": 42,
+        "fp": 10,
+        "fn": 9
+      },
+      "category": "full_system",
+      "sample_count": 97
+    },
+    {
+      "id": "components_no_dino",
+      "dataset": "Real-97",
+      "method": "no_dino",
+      "protocol": "fixed_weight_input_intervention",
+      "records": [
+        {
+          "sample_id": "C04",
+          "label": 0,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "CLEAN_D02",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_D04",
+          "label": 0,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "CLEAN_D07",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_D08",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_D09",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_D11",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_D12",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_D13",
+          "label": 0,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "CLEAN_D14",
+          "label": 0,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "CLEAN_D15",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_G01",
+          "label": 0,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "CLEAN_G02",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_G03",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_G05",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_G06",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_G07",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_G10",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_G11",
+          "label": 0,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "CLEAN_G15",
+          "label": 0,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "CLEAN_G16",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_G17",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_G18",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_G20",
+          "label": 0,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "CLEAN_G21",
+          "label": 0,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "CLEAN_G24",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_G27",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_G28",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_G29",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_G30",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_G32",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_G36",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_G37",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_G38",
+          "label": 0,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "CLEAN_G39",
+          "label": 0,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "CLEAN_R01",
+          "label": 0,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "CLEAN_R02",
+          "label": 0,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "CLEAN_R03",
+          "label": 0,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "CLEAN_R04",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_R05",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_R06",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_R07",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_R08",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_R09",
+          "label": 0,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "CLEAN_R10",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_R11",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_R12",
+          "label": 0,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "CLEAN_R13",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_R14",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_R15",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "H01",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "H02",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "H03",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "H04",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "H05",
+          "label": 1,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "H06",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "H07",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "H08",
+          "label": 1,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "H09",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "H10",
+          "label": 1,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "H12",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "H13",
+          "label": 1,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "H14",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "H15",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "H16",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "N01",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "N06",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "N09",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "N11",
+          "label": 1,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "N12",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "N13",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "N17",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "N18",
+          "label": 1,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "N19",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "N20",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "N21",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "N25",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "N27",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "N29",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "N30",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "N34",
+          "label": 1,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "N35",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "N38",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "N45",
+          "label": 1,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "N48",
+          "label": 1,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "N49",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "N50",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "N51",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "N56",
+          "label": 1,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "N57",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "N59",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "N62",
+          "label": 1,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "N63",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "N64",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "N65",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "N70",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "N71",
+          "label": 1,
+          "predicted_label": 1
+        }
+      ],
+      "expected_counts": {
+        "tp": 34,
+        "tn": 36,
+        "fp": 16,
+        "fn": 11
+      },
+      "category": "component_ablation",
+      "sample_count": 97
+    },
+    {
+      "id": "components_no_raft",
+      "dataset": "Real-97",
+      "method": "no_raft",
+      "protocol": "fixed_weight_input_intervention",
+      "records": [
+        {
+          "sample_id": "C04",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_D02",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_D04",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_D07",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_D08",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_D09",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_D11",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_D12",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_D13",
+          "label": 0,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "CLEAN_D14",
+          "label": 0,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "CLEAN_D15",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_G01",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_G02",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_G03",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_G05",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_G06",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_G07",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_G10",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_G11",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_G15",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_G16",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_G17",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_G18",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_G20",
+          "label": 0,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "CLEAN_G21",
+          "label": 0,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "CLEAN_G24",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_G27",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_G28",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_G29",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_G30",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_G32",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_G36",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_G37",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_G38",
+          "label": 0,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "CLEAN_G39",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_R01",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_R02",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_R03",
+          "label": 0,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "CLEAN_R04",
+          "label": 0,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "CLEAN_R05",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_R06",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_R07",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_R08",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_R09",
+          "label": 0,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "CLEAN_R10",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_R11",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_R12",
+          "label": 0,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "CLEAN_R13",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_R14",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_R15",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "H01",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "H02",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "H03",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "H04",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "H05",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "H06",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "H07",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "H08",
+          "label": 1,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "H09",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "H10",
+          "label": 1,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "H12",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "H13",
+          "label": 1,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "H14",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "H15",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "H16",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "N01",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "N06",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "N09",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "N11",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "N12",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "N13",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "N17",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "N18",
+          "label": 1,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "N19",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "N20",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "N21",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "N25",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "N27",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "N29",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "N30",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "N34",
+          "label": 1,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "N35",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "N38",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "N45",
+          "label": 1,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "N48",
+          "label": 1,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "N49",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "N50",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "N51",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "N56",
+          "label": 1,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "N57",
+          "label": 1,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "N59",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "N62",
+          "label": 1,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "N63",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "N64",
+          "label": 1,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "N65",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "N70",
+          "label": 1,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "N71",
+          "label": 1,
+          "predicted_label": 1
+        }
+      ],
+      "expected_counts": {
+        "tp": 33,
+        "tn": 43,
+        "fp": 9,
+        "fn": 12
+      },
+      "category": "component_ablation",
+      "sample_count": 97
+    },
+    {
+      "id": "components_no_r3d_lineage",
+      "dataset": "Real-97",
+      "method": "no_r3d_lineage",
+      "protocol": "fixed_weight_input_intervention",
+      "records": [
+        {
+          "sample_id": "C04",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_D02",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_D04",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_D07",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_D08",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_D09",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_D11",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_D12",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_D13",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_D14",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_D15",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_G01",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_G02",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_G03",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_G05",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_G06",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_G07",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_G10",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_G11",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_G15",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_G16",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_G17",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_G18",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_G20",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_G21",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_G24",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_G27",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_G28",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_G29",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_G30",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_G32",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_G36",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_G37",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_G38",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_G39",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_R01",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_R02",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_R03",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_R04",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_R05",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_R06",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_R07",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_R08",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_R09",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_R10",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_R11",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_R12",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_R13",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_R14",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_R15",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "H01",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "H02",
+          "label": 1,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "H03",
+          "label": 1,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "H04",
+          "label": 1,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "H05",
+          "label": 1,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "H06",
+          "label": 1,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "H07",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "H08",
+          "label": 1,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "H09",
+          "label": 1,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "H10",
+          "label": 1,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "H12",
+          "label": 1,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "H13",
+          "label": 1,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "H14",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "H15",
+          "label": 1,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "H16",
+          "label": 1,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "N01",
+          "label": 1,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "N06",
+          "label": 1,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "N09",
+          "label": 1,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "N11",
+          "label": 1,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "N12",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "N13",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "N17",
+          "label": 1,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "N18",
+          "label": 1,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "N19",
+          "label": 1,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "N20",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "N21",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "N25",
+          "label": 1,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "N27",
+          "label": 1,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "N29",
+          "label": 1,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "N30",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "N34",
+          "label": 1,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "N35",
+          "label": 1,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "N38",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "N45",
+          "label": 1,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "N48",
+          "label": 1,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "N49",
+          "label": 1,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "N50",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "N51",
+          "label": 1,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "N56",
+          "label": 1,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "N57",
+          "label": 1,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "N59",
+          "label": 1,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "N62",
+          "label": 1,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "N63",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "N64",
+          "label": 1,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "N65",
+          "label": 1,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "N70",
+          "label": 1,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "N71",
+          "label": 1,
+          "predicted_label": 1
+        }
+      ],
+      "expected_counts": {
+        "tp": 10,
+        "tn": 52,
+        "fp": 0,
+        "fn": 35
+      },
+      "category": "component_ablation",
+      "sample_count": 97
+    },
+    {
+      "id": "components_no_c_mask",
+      "dataset": "Real-97",
+      "method": "no_c_mask",
+      "protocol": "fixed_weight_input_intervention",
+      "records": [
+        {
+          "sample_id": "C04",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_D02",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_D04",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_D07",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_D08",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_D09",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_D11",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_D12",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_D13",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_D14",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_D15",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_G01",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_G02",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_G03",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_G05",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_G06",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_G07",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_G10",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_G11",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_G15",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_G16",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_G17",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_G18",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_G20",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_G21",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_G24",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_G27",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_G28",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_G29",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_G30",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_G32",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_G36",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_G37",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_G38",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_G39",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_R01",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_R02",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_R03",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_R04",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_R05",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_R06",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_R07",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_R08",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_R09",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_R10",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_R11",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_R12",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_R13",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_R14",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_R15",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "H01",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "H02",
+          "label": 1,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "H03",
+          "label": 1,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "H04",
+          "label": 1,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "H05",
+          "label": 1,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "H06",
+          "label": 1,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "H07",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "H08",
+          "label": 1,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "H09",
+          "label": 1,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "H10",
+          "label": 1,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "H12",
+          "label": 1,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "H13",
+          "label": 1,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "H14",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "H15",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "H16",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "N01",
+          "label": 1,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "N06",
+          "label": 1,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "N09",
+          "label": 1,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "N11",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "N12",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "N13",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "N17",
+          "label": 1,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "N18",
+          "label": 1,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "N19",
+          "label": 1,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "N20",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "N21",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "N25",
+          "label": 1,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "N27",
+          "label": 1,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "N29",
+          "label": 1,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "N30",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "N34",
+          "label": 1,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "N35",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "N38",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "N45",
+          "label": 1,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "N48",
+          "label": 1,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "N49",
+          "label": 1,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "N50",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "N51",
+          "label": 1,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "N56",
+          "label": 1,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "N57",
+          "label": 1,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "N59",
+          "label": 1,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "N62",
+          "label": 1,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "N63",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "N64",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "N65",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "N70",
+          "label": 1,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "N71",
+          "label": 1,
+          "predicted_label": 1
+        }
+      ],
+      "expected_counts": {
+        "tp": 16,
+        "tn": 52,
+        "fp": 0,
+        "fn": 29
+      },
+      "category": "component_ablation",
+      "sample_count": 97
+    },
+    {
+      "id": "components_no_RIFE_all",
+      "dataset": "Real-97",
+      "method": "no_RIFE_all",
+      "protocol": "fixed_weight_input_intervention",
+      "records": [
+        {
+          "sample_id": "C04",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_D02",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_D04",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_D07",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_D08",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_D09",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_D11",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_D12",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_D13",
+          "label": 0,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "CLEAN_D14",
+          "label": 0,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "CLEAN_D15",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_G01",
+          "label": 0,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "CLEAN_G02",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_G03",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_G05",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_G06",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_G07",
+          "label": 0,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "CLEAN_G10",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_G11",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_G15",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_G16",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_G17",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_G18",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_G20",
+          "label": 0,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "CLEAN_G21",
+          "label": 0,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "CLEAN_G24",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_G27",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_G28",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_G29",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_G30",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_G32",
+          "label": 0,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "CLEAN_G36",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_G37",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_G38",
+          "label": 0,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "CLEAN_G39",
+          "label": 0,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "CLEAN_R01",
+          "label": 0,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "CLEAN_R02",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_R03",
+          "label": 0,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "CLEAN_R04",
+          "label": 0,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "CLEAN_R05",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_R06",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_R07",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_R08",
+          "label": 0,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "CLEAN_R09",
+          "label": 0,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "CLEAN_R10",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_R11",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_R12",
+          "label": 0,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "CLEAN_R13",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_R14",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_R15",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "H01",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "H02",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "H03",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "H04",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "H05",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "H06",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "H07",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "H08",
+          "label": 1,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "H09",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "H10",
+          "label": 1,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "H12",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "H13",
+          "label": 1,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "H14",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "H15",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "H16",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "N01",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "N06",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "N09",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "N11",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "N12",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "N13",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "N17",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "N18",
+          "label": 1,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "N19",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "N20",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "N21",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "N25",
+          "label": 1,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "N27",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "N29",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "N30",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "N34",
+          "label": 1,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "N35",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "N38",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "N45",
+          "label": 1,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "N48",
+          "label": 1,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "N49",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "N50",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "N51",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "N56",
+          "label": 1,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "N57",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "N59",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "N62",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "N63",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "N64",
+          "label": 1,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "N65",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "N70",
+          "label": 1,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "N71",
+          "label": 1,
+          "predicted_label": 1
+        }
+      ],
+      "expected_counts": {
+        "tp": 34,
+        "tn": 37,
+        "fp": 15,
+        "fn": 11
+      },
+      "category": "component_ablation",
+      "sample_count": 97
+    },
+    {
+      "id": "rules_no_full_gate",
+      "dataset": "Real-97",
+      "method": "no_full_gate",
+      "protocol": "fixed_weight_rule_intervention",
+      "records": [
+        {
+          "sample_id": "C04",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_D02",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_D04",
+          "label": 0,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "CLEAN_D07",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_D08",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_D09",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_D11",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_D12",
+          "label": 0,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "CLEAN_D13",
+          "label": 0,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "CLEAN_D14",
+          "label": 0,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "CLEAN_D15",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_G01",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_G02",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_G03",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_G05",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_G06",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_G07",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_G10",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_G11",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_G15",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_G16",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_G17",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_G18",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_G20",
+          "label": 0,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "CLEAN_G21",
+          "label": 0,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "CLEAN_G24",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_G27",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_G28",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_G29",
+          "label": 0,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "CLEAN_G30",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_G32",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_G36",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_G37",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_G38",
+          "label": 0,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "CLEAN_G39",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_R01",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_R02",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_R03",
+          "label": 0,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "CLEAN_R04",
+          "label": 0,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "CLEAN_R05",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_R06",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_R07",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_R08",
+          "label": 0,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "CLEAN_R09",
+          "label": 0,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "CLEAN_R10",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_R11",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_R12",
+          "label": 0,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "CLEAN_R13",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_R14",
+          "label": 0,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "CLEAN_R15",
+          "label": 0,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "H01",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "H02",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "H03",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "H04",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "H05",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "H06",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "H07",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "H08",
+          "label": 1,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "H09",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "H10",
+          "label": 1,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "H12",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "H13",
+          "label": 1,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "H14",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "H15",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "H16",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "N01",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "N06",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "N09",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "N11",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "N12",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "N13",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "N17",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "N18",
+          "label": 1,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "N19",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "N20",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "N21",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "N25",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "N27",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "N29",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "N30",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "N34",
+          "label": 1,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "N35",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "N38",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "N45",
+          "label": 1,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "N48",
+          "label": 1,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "N49",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "N50",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "N51",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "N56",
+          "label": 1,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "N57",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "N59",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "N62",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "N63",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "N64",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "N65",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "N70",
+          "label": 1,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "N71",
+          "label": 1,
+          "predicted_label": 1
+        }
+      ],
+      "expected_counts": {
+        "tp": 36,
+        "tn": 37,
+        "fp": 15,
+        "fn": 9
+      },
+      "category": "component_ablation",
+      "sample_count": 97
+    },
+    {
+      "id": "rules_no_context_gate",
+      "dataset": "Real-97",
+      "method": "no_context_gate",
+      "protocol": "fixed_weight_rule_intervention",
+      "records": [
+        {
+          "sample_id": "C04",
+          "label": 0,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "CLEAN_D02",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_D04",
+          "label": 0,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "CLEAN_D07",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_D08",
+          "label": 0,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "CLEAN_D09",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_D11",
+          "label": 0,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "CLEAN_D12",
+          "label": 0,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "CLEAN_D13",
+          "label": 0,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "CLEAN_D14",
+          "label": 0,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "CLEAN_D15",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_G01",
+          "label": 0,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "CLEAN_G02",
+          "label": 0,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "CLEAN_G03",
+          "label": 0,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "CLEAN_G05",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_G06",
+          "label": 0,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "CLEAN_G07",
+          "label": 0,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "CLEAN_G10",
+          "label": 0,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "CLEAN_G11",
+          "label": 0,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "CLEAN_G15",
+          "label": 0,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "CLEAN_G16",
+          "label": 0,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "CLEAN_G17",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_G18",
+          "label": 0,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "CLEAN_G20",
+          "label": 0,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "CLEAN_G21",
+          "label": 0,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "CLEAN_G24",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_G27",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_G28",
+          "label": 0,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "CLEAN_G29",
+          "label": 0,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "CLEAN_G30",
+          "label": 0,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "CLEAN_G32",
+          "label": 0,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "CLEAN_G36",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_G37",
+          "label": 0,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "CLEAN_G38",
+          "label": 0,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "CLEAN_G39",
+          "label": 0,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "CLEAN_R01",
+          "label": 0,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "CLEAN_R02",
+          "label": 0,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "CLEAN_R03",
+          "label": 0,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "CLEAN_R04",
+          "label": 0,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "CLEAN_R05",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_R06",
+          "label": 0,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "CLEAN_R07",
+          "label": 0,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "CLEAN_R08",
+          "label": 0,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "CLEAN_R09",
+          "label": 0,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "CLEAN_R10",
+          "label": 0,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "CLEAN_R11",
+          "label": 0,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "CLEAN_R12",
+          "label": 0,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "CLEAN_R13",
+          "label": 0,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "CLEAN_R14",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_R15",
+          "label": 0,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "H01",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "H02",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "H03",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "H04",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "H05",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "H06",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "H07",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "H08",
+          "label": 1,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "H09",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "H10",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "H12",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "H13",
+          "label": 1,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "H14",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "H15",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "H16",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "N01",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "N06",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "N09",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "N11",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "N12",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "N13",
+          "label": 0,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "N17",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "N18",
+          "label": 1,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "N19",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "N20",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "N21",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "N25",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "N27",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "N29",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "N30",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "N34",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "N35",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "N38",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "N45",
+          "label": 1,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "N48",
+          "label": 1,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "N49",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "N50",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "N51",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "N56",
+          "label": 1,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "N57",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "N59",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "N62",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "N63",
+          "label": 0,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "N64",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "N65",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "N70",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "N71",
+          "label": 1,
+          "predicted_label": 1
+        }
+      ],
+      "expected_counts": {
+        "tp": 39,
+        "tn": 11,
+        "fp": 41,
+        "fn": 6
+      },
+      "category": "component_ablation",
+      "sample_count": 97
+    },
+    {
+      "id": "rules_no_dark",
+      "dataset": "Real-97",
+      "method": "no_dark",
+      "protocol": "fixed_weight_rule_intervention",
+      "records": [
+        {
+          "sample_id": "C04",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_D02",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_D04",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_D07",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_D08",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_D09",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_D11",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_D12",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_D13",
+          "label": 0,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "CLEAN_D14",
+          "label": 0,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "CLEAN_D15",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_G01",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_G02",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_G03",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_G05",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_G06",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_G07",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_G10",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_G11",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_G15",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_G16",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_G17",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_G18",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_G20",
+          "label": 0,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "CLEAN_G21",
+          "label": 0,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "CLEAN_G24",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_G27",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_G28",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_G29",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_G30",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_G32",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_G36",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_G37",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_G38",
+          "label": 0,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "CLEAN_G39",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_R01",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_R02",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_R03",
+          "label": 0,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "CLEAN_R04",
+          "label": 0,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "CLEAN_R05",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_R06",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_R07",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_R08",
+          "label": 0,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "CLEAN_R09",
+          "label": 0,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "CLEAN_R10",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_R11",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_R12",
+          "label": 0,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "CLEAN_R13",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_R14",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_R15",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "H01",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "H02",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "H03",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "H04",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "H05",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "H06",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "H07",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "H08",
+          "label": 1,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "H09",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "H10",
+          "label": 1,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "H12",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "H13",
+          "label": 1,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "H14",
+          "label": 1,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "H15",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "H16",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "N01",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "N06",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "N09",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "N11",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "N12",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "N13",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "N17",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "N18",
+          "label": 1,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "N19",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "N20",
+          "label": 1,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "N21",
+          "label": 1,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "N25",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "N27",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "N29",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "N30",
+          "label": 1,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "N34",
+          "label": 1,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "N35",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "N38",
+          "label": 1,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "N45",
+          "label": 1,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "N48",
+          "label": 1,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "N49",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "N50",
+          "label": 1,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "N51",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "N56",
+          "label": 1,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "N57",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "N59",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "N62",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "N63",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "N64",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "N65",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "N70",
+          "label": 1,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "N71",
+          "label": 1,
+          "predicted_label": 1
+        }
+      ],
+      "expected_counts": {
+        "tp": 30,
+        "tn": 42,
+        "fp": 10,
+        "fn": 15
+      },
+      "category": "component_ablation",
+      "sample_count": 97
+    },
+    {
+      "id": "rules_no_RIFE_confirmation",
+      "dataset": "Real-97",
+      "method": "no_RIFE_confirmation",
+      "protocol": "fixed_weight_rule_intervention",
+      "records": [
+        {
+          "sample_id": "C04",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_D02",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_D04",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_D07",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_D08",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_D09",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_D11",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_D12",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_D13",
+          "label": 0,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "CLEAN_D14",
+          "label": 0,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "CLEAN_D15",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_G01",
+          "label": 0,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "CLEAN_G02",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_G03",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_G05",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_G06",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_G07",
+          "label": 0,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "CLEAN_G10",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_G11",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_G15",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_G16",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_G17",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_G18",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_G20",
+          "label": 0,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "CLEAN_G21",
+          "label": 0,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "CLEAN_G24",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_G27",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_G28",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_G29",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_G30",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_G32",
+          "label": 0,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "CLEAN_G36",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_G37",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_G38",
+          "label": 0,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "CLEAN_G39",
+          "label": 0,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "CLEAN_R01",
+          "label": 0,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "CLEAN_R02",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_R03",
+          "label": 0,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "CLEAN_R04",
+          "label": 0,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "CLEAN_R05",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_R06",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_R07",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_R08",
+          "label": 0,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "CLEAN_R09",
+          "label": 0,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "CLEAN_R10",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_R11",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_R12",
+          "label": 0,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "CLEAN_R13",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_R14",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_R15",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "H01",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "H02",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "H03",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "H04",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "H05",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "H06",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "H07",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "H08",
+          "label": 1,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "H09",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "H10",
+          "label": 1,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "H12",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "H13",
+          "label": 1,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "H14",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "H15",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "H16",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "N01",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "N06",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "N09",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "N11",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "N12",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "N13",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "N17",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "N18",
+          "label": 1,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "N19",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "N20",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "N21",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "N25",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "N27",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "N29",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "N30",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "N34",
+          "label": 1,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "N35",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "N38",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "N45",
+          "label": 1,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "N48",
+          "label": 1,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "N49",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "N50",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "N51",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "N56",
+          "label": 1,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "N57",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "N59",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "N62",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "N63",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "N64",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "N65",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "N70",
+          "label": 1,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "N71",
+          "label": 1,
+          "predicted_label": 1
+        }
+      ],
+      "expected_counts": {
+        "tp": 36,
+        "tn": 37,
+        "fp": 15,
+        "fn": 9
+      },
+      "category": "component_ablation",
+      "sample_count": 97
+    },
+    {
+      "id": "rules_no_RIFE_rescue",
+      "dataset": "Real-97",
+      "method": "no_RIFE_rescue",
+      "protocol": "fixed_weight_rule_intervention",
+      "records": [
+        {
+          "sample_id": "C04",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_D02",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_D04",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_D07",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_D08",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_D09",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_D11",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_D12",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_D13",
+          "label": 0,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "CLEAN_D14",
+          "label": 0,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "CLEAN_D15",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_G01",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_G02",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_G03",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_G05",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_G06",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_G07",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_G10",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_G11",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_G15",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_G16",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_G17",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_G18",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_G20",
+          "label": 0,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "CLEAN_G21",
+          "label": 0,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "CLEAN_G24",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_G27",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_G28",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_G29",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_G30",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_G32",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_G36",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_G37",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_G38",
+          "label": 0,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "CLEAN_G39",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_R01",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_R02",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_R03",
+          "label": 0,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "CLEAN_R04",
+          "label": 0,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "CLEAN_R05",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_R06",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_R07",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_R08",
+          "label": 0,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "CLEAN_R09",
+          "label": 0,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "CLEAN_R10",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_R11",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_R12",
+          "label": 0,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "CLEAN_R13",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_R14",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_R15",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "H01",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "H02",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "H03",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "H04",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "H05",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "H06",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "H07",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "H08",
+          "label": 1,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "H09",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "H10",
+          "label": 1,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "H12",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "H13",
+          "label": 1,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "H14",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "H15",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "H16",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "N01",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "N06",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "N09",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "N11",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "N12",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "N13",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "N17",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "N18",
+          "label": 1,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "N19",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "N20",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "N21",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "N25",
+          "label": 1,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "N27",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "N29",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "N30",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "N34",
+          "label": 1,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "N35",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "N38",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "N45",
+          "label": 1,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "N48",
+          "label": 1,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "N49",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "N50",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "N51",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "N56",
+          "label": 1,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "N57",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "N59",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "N62",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "N63",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "N64",
+          "label": 1,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "N65",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "N70",
+          "label": 1,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "N71",
+          "label": 1,
+          "predicted_label": 1
+        }
+      ],
+      "expected_counts": {
+        "tp": 34,
+        "tn": 42,
+        "fp": 10,
+        "fn": 11
+      },
+      "category": "component_ablation",
+      "sample_count": 97
+    },
+    {
+      "id": "rules_no_endpoint_guard",
+      "dataset": "Real-97",
+      "method": "no_endpoint_guard",
+      "protocol": "fixed_weight_rule_intervention",
+      "records": [
+        {
+          "sample_id": "C04",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_D02",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_D04",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_D07",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_D08",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_D09",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_D11",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_D12",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_D13",
+          "label": 0,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "CLEAN_D14",
+          "label": 0,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "CLEAN_D15",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_G01",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_G02",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_G03",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_G05",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_G06",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_G07",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_G10",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_G11",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_G15",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_G16",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_G17",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_G18",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_G20",
+          "label": 0,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "CLEAN_G21",
+          "label": 0,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "CLEAN_G24",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_G27",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_G28",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_G29",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_G30",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_G32",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_G36",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_G37",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_G38",
+          "label": 0,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "CLEAN_G39",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_R01",
+          "label": 0,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "CLEAN_R02",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_R03",
+          "label": 0,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "CLEAN_R04",
+          "label": 0,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "CLEAN_R05",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_R06",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_R07",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_R08",
+          "label": 0,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "CLEAN_R09",
+          "label": 0,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "CLEAN_R10",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_R11",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_R12",
+          "label": 0,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "CLEAN_R13",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_R14",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_R15",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "H01",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "H02",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "H03",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "H04",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "H05",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "H06",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "H07",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "H08",
+          "label": 1,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "H09",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "H10",
+          "label": 1,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "H12",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "H13",
+          "label": 1,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "H14",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "H15",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "H16",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "N01",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "N06",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "N09",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "N11",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "N12",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "N13",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "N17",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "N18",
+          "label": 1,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "N19",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "N20",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "N21",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "N25",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "N27",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "N29",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "N30",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "N34",
+          "label": 1,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "N35",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "N38",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "N45",
+          "label": 1,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "N48",
+          "label": 1,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "N49",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "N50",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "N51",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "N56",
+          "label": 1,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "N57",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "N59",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "N62",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "N63",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "N64",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "N65",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "N70",
+          "label": 1,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "N71",
+          "label": 1,
+          "predicted_label": 1
+        }
+      ],
+      "expected_counts": {
+        "tp": 36,
+        "tn": 41,
+        "fp": 11,
+        "fn": 9
+      },
+      "category": "component_ablation",
+      "sample_count": 97
+    },
+    {
+      "id": "comparison_Common81_MEF-VR",
+      "dataset": "Common-81",
+      "method": "Common81_MEF-VR",
+      "protocol": "archived_comparator",
+      "records": [
+        {
+          "sample_id": "CLEAN_D02",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_D04",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_D07",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_D08",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_D09",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_D11",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_D12",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_D14",
+          "label": 0,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "CLEAN_D15",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_G01",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_G02",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_G05",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_G06",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_G07",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_G10",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_G11",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_G15",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_G16",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_G17",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_G20",
+          "label": 0,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "CLEAN_G21",
+          "label": 0,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "CLEAN_G24",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_G27",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_G28",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_G29",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_G30",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_G32",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_G37",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_G38",
+          "label": 0,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "CLEAN_G39",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_R01",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_R02",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_R04",
+          "label": 0,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "CLEAN_R05",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_R06",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_R07",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_R08",
+          "label": 0,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "CLEAN_R09",
+          "label": 0,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "CLEAN_R10",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_R11",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_R13",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_R14",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_R15",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "H02",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "H03",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "H04",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "H05",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "H06",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "H07",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "H08",
+          "label": 1,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "H09",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "H12",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "H13",
+          "label": 1,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "H14",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "H15",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "H16",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "N01",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "N06",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "N09",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "N11",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "N13",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "N17",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "N18",
+          "label": 1,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "N20",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "N21",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "N25",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "N29",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "N30",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "N34",
+          "label": 1,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "N38",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "N45",
+          "label": 1,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "N48",
+          "label": 1,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "N49",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "N50",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "N56",
+          "label": 1,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "N57",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "N59",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "N62",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "N64",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "N65",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "N70",
+          "label": 1,
+          "predicted_label": 0
+        }
+      ],
+      "expected_counts": {
+        "tp": 29,
+        "tn": 37,
+        "fp": 7,
+        "fn": 8
+      },
+      "category": "api_comparison",
+      "sample_count": 81
+    },
+    {
+      "id": "comparison_Common81_gpt-6-luna",
+      "dataset": "Common-81",
+      "method": "Common81_gpt-6-luna",
+      "protocol": "archived_comparator",
+      "records": [
+        {
+          "sample_id": "CLEAN_D02",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_D04",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_D07",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_D09",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_G01",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_G02",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_G05",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_G07",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_G10",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_G11",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_G15",
+          "label": 0,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "CLEAN_G16",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_G20",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_G24",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_G28",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_G30",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_G39",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_R01",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_R02",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_R05",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_R06",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_R07",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_R08",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_R10",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_R11",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_R14",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "H02",
+          "label": 1,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "H03",
+          "label": 1,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "H04",
+          "label": 1,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "H05",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "H09",
+          "label": 1,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "H12",
+          "label": 1,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "H15",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "N01",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "N06",
+          "label": 1,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "N11",
+          "label": 1,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "N18",
+          "label": 1,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "N20",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "N21",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "N25",
+          "label": 1,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "N29",
+          "label": 1,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "N34",
+          "label": 1,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "N38",
+          "label": 1,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "N50",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "N57",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "N59",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "N62",
+          "label": 1,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "N64",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "N65",
+          "label": 1,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_D08",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_D11",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_D12",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_D14",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_D15",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_G06",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_G17",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_G21",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_G27",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_G29",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_G32",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_G37",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_G38",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_R04",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_R09",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_R13",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_R15",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "H06",
+          "label": 1,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "H07",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "H08",
+          "label": 1,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "H13",
+          "label": 1,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "H14",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "H16",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "N09",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "N13",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "N17",
+          "label": 1,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "N30",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "N45",
+          "label": 1,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "N48",
+          "label": 1,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "N49",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "N56",
+          "label": 1,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "N70",
+          "label": 1,
+          "predicted_label": 0
+        }
+      ],
+      "expected_counts": {
+        "tp": 15,
+        "tn": 43,
+        "fp": 1,
+        "fn": 22
+      },
+      "category": "api_comparison",
+      "sample_count": 81
+    },
+    {
+      "id": "comparison_Common81_claude-sonnet-5-5",
+      "dataset": "Common-81",
+      "method": "Common81_claude-sonnet-5-5",
+      "protocol": "archived_comparator",
+      "records": [
+        {
+          "sample_id": "CLEAN_D02",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_D04",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_D07",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_D09",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_G01",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_G02",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_G05",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_G07",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_G10",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_G11",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_G15",
+          "label": 0,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "CLEAN_G16",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_G20",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_G24",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_G28",
+          "label": 0,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "CLEAN_G30",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_G39",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_R01",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_R02",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_R05",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_R06",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_R07",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_R08",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_R10",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_R11",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_R14",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "H02",
+          "label": 1,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "H03",
+          "label": 1,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "H04",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "H05",
+          "label": 1,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "H09",
+          "label": 1,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "H12",
+          "label": 1,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "H15",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "N01",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "N06",
+          "label": 1,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "N11",
+          "label": 1,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "N18",
+          "label": 1,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "N20",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "N21",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "N25",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "N29",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "N34",
+          "label": 1,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "N38",
+          "label": 1,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "N50",
+          "label": 1,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "N57",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "N59",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "N62",
+          "label": 1,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "N64",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "N65",
+          "label": 1,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_D08",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_D11",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_D12",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_D14",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_D15",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_G06",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_G17",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_G21",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_G27",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_G29",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_G32",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_G37",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_G38",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_R04",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_R09",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_R13",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_R15",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "H06",
+          "label": 1,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "H07",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "H08",
+          "label": 1,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "H13",
+          "label": 1,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "H14",
+          "label": 1,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "H16",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "N09",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "N13",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "N17",
+          "label": 1,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "N30",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "N45",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "N48",
+          "label": 1,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "N49",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "N56",
+          "label": 1,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "N70",
+          "label": 1,
+          "predicted_label": 1
+        }
+      ],
+      "expected_counts": {
+        "tp": 17,
+        "tn": 42,
+        "fp": 2,
+        "fn": 20
+      },
+      "category": "api_comparison",
+      "sample_count": 81
+    },
+    {
+      "id": "comparison_Common81_deepseek-flash",
+      "dataset": "Common-81",
+      "method": "Common81_deepseek-flash",
+      "protocol": "archived_comparator",
+      "records": [
+        {
+          "sample_id": "CLEAN_D02",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_D04",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_D07",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_D09",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_G01",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_G02",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_G05",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_G07",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_G10",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_G11",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_G15",
+          "label": 0,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "CLEAN_G16",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_G20",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_G24",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_G28",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_G30",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_G39",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_R01",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_R02",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_R05",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_R06",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_R07",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_R08",
+          "label": 0,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "CLEAN_R10",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_R11",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_R14",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "H02",
+          "label": 1,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "H03",
+          "label": 1,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "H04",
+          "label": 1,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "H05",
+          "label": 1,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "H09",
+          "label": 1,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "H12",
+          "label": 1,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "H15",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "N01",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "N06",
+          "label": 1,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "N11",
+          "label": 1,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "N18",
+          "label": 1,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "N20",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "N21",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "N25",
+          "label": 1,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "N29",
+          "label": 1,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "N34",
+          "label": 1,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "N38",
+          "label": 1,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "N50",
+          "label": 1,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "N57",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "N59",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "N62",
+          "label": 1,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "N64",
+          "label": 1,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "N65",
+          "label": 1,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_D08",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_D11",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_D12",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_D14",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_D15",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_G06",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_G17",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_G21",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_G27",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_G29",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_G32",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_G37",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_G38",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_R04",
+          "label": 0,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "CLEAN_R09",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_R13",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "CLEAN_R15",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "H06",
+          "label": 1,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "H07",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "H08",
+          "label": 1,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "H13",
+          "label": 1,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "H14",
+          "label": 1,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "H16",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "N09",
+          "label": 1,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "N13",
+          "label": 0,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "N17",
+          "label": 1,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "N30",
+          "label": 1,
+          "predicted_label": 1
+        },
+        {
+          "sample_id": "N45",
+          "label": 1,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "N48",
+          "label": 1,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "N49",
+          "label": 1,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "N56",
+          "label": 1,
+          "predicted_label": 0
+        },
+        {
+          "sample_id": "N70",
+          "label": 1,
+          "predicted_label": 0
+        }
+      ],
+      "expected_counts": {
+        "tp": 9,
+        "tn": 41,
+        "fp": 3,
+        "fn": 28
+      },
+      "category": "api_comparison",
+      "sample_count": 81
+    },
+    {
+      "id": "comparison_Real97_vidmap",
+      "dataset": "Real-97",
+      "method": "Real97_vidmap",
+      "protocol": "archived_comparator",
+      "counts": {
+        "tp": 45,
+        "tn": 0,
+        "fp": 52,
+        "fn": 0
+      },
+      "category": "baseline_comparison",
+      "sample_count": 97
+    },
+    {
+      "id": "comparison_Real97_hvei",
+      "dataset": "Real-97",
+      "method": "Real97_hvei",
+      "protocol": "archived_comparator",
+      "counts": {
+        "tp": 43,
+        "tn": 0,
+        "fp": 52,
+        "fn": 2
+      },
+      "category": "baseline_comparison",
+      "sample_count": 97
+    },
+    {
+      "id": "comparison_Real97_qwen_base_run_4bit_v1",
+      "dataset": "Real-97",
+      "method": "Real97_qwen_base_run_4bit_v1",
+      "protocol": "archived_comparator",
+      "counts": {
+        "tp": 2,
+        "tn": 52,
+        "fp": 0,
+        "fn": 43
+      },
+      "category": "baseline_comparison",
+      "sample_count": 97
+    },
+    {
+      "id": "comparison_Real97_qwen_v5_fast224",
+      "dataset": "Real-97",
+      "method": "Real97_qwen_v5_fast224",
+      "protocol": "archived_comparator",
+      "counts": {
+        "tp": 43,
+        "tn": 2,
+        "fp": 50,
+        "fn": 2
+      },
+      "category": "baseline_comparison",
+      "sample_count": 97
+    }
+  ],
+  "new_inference": false
+}

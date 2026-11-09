@@ -1,0 +1,90 @@
+{
+  "schema": "official_rife_acquisition_v1",
+  "recorded_at_utc": "2026-10-14T10:15:24Z",
+  "status": "downloaded_and_safe_cpu_deserialization_passed_not_inference_validated",
+  "source": {
+    "repository_url": "https://github.com/hzwer/ECCV2022-RIFE",
+    "branch": "main",
+    "commit": "5d8adbdd40e12c2c8f91930eff838aebe561c086",
+    "download_method": "git clone --depth 1 --single-branch --branch main",
+    "worktree_clean_after_inspection": true,
+    "official_code_executed": false,
+    "repository_path": "/mnt/e/VRFlickerLab/models/rife_official_20261014_v1/ECCV2022-RIFE",
+    "sha256": {
+      "README.md": "05290581ecf28621a7731486fa17ba0e4f02fc689dba0a4ccd2c905f72851498",
+      "LICENSE": "f629619f078e3ed699f1ea401248cb7796c36334e3b8ec0eb2c082eceaa5f084",
+      "model/RIFE.py": "ca9bec074a159624c9701ff748d169f022de7a654ebbf5a6f24886e69d3aba0b",
+      "model/IFNet_m.py": "e4e1e4d4f877ade9c8cdb1fd5b9e2f333670b5b6610d63b96e3a42a245c913d2",
+      "model/refine.py": "547c92774aeca3a4a25ca0d061d01bb1115c84a7e475c40f0cc6ebfd759a7580",
+      "model/warplayer.py": "eed94da2f2e8056fa0ceabed88b87fedf25ec849494991a956b9f2cbad33632c",
+      "inference_img.py": "ab6d1a177e4b9c35fef67d1a56cfd3ca8c92576473bed24377f3ae87fd71713f",
+      "inference_video.py": "55de865c00768d07f048744cf4fc0b9751ae15cde1307bdd64fc2b75fcc42ba1"
+    }
+  },
+  "weights": {
+    "model_name": "RIFE_m paper model, arbitrary timestep",
+    "official_link_provenance": "ECCV2022-RIFE README Evaluation section RIFE_m model link",
+    "source_url": "https://drive.google.com/file/d/147XVsDXBfJPlyct2jfo9kpbL944mNeZr/view?usp=sharing",
+    "download_url": "https://drive.usercontent.google.com/download?id=147XVsDXBfJPlyct2jfo9kpbL944mNeZr&export=download&confirm=t",
+    "public_virus_scan_confirmation_used": true,
+    "login_or_credentials_used": false,
+    "archive": "RIFE_m_train_log.zip",
+    "archive_bytes": 39818663,
+    "archive_sha256": "b4265f4984ac7395bda608ff538114d0df0a2e50e20963adfa571fc7bf0d4a3b",
+    "checkpoint": "RIFE_m_train_log/flownet.pkl",
+    "checkpoint_bytes": 42884324,
+    "checkpoint_sha256": "9f9e2e8b5c3fef311c9a782aa17a30f87c388ce6dc9c00e4993eba3d3941d3cb",
+    "archive_members_inspected_before_extract": ["RIFE_m_train_log/", "RIFE_m_train_log/.DS_Store", "RIFE_m_train_log/flownet.pkl"],
+    "archive_contains_code": false
+  },
+  "license": {
+    "repository": "MIT, Copyright Megvii Inc.; retained LICENSE",
+    "checkpoint": "Official paper weight linked by MIT repository; archive contains no standalone checkpoint-specific license",
+    "alternative_practical_rife_statement": "Practical-RIFE README Trained Model section explicitly states linked model contents are under the same MIT license as its project; these alternative weights were not downloaded",
+    "alternative_statement_url": "https://github.com/hzwer/Practical-RIFE#trained-model"
+  },
+  "weights_only_check": {
+    "passed": true,
+    "torch_version": "2.11.0+cu130",
+    "CUDA_VISIBLE_DEVICES": "",
+    "map_location": "cpu",
+    "weights_only": true,
+    "custom_safe_globals_added": false,
+    "official_repository_imported": false,
+    "result_type": "OrderedDict",
+    "tensor_key_count": 190,
+    "module_prefix_key_count": 190,
+    "tensor_element_count": 10710780,
+    "tensor_dtypes": ["torch.float32"],
+    "all_tensors_finite": true,
+    "architecture_strict_load_tested": false,
+    "inference_tested": false
+  },
+  "native_interface_static_audit": {
+    "preferred_module": "model.IFNet_m.IFNet_m",
+    "input": "Concatenated two native Bx3xHxW float32 images in [0,1]; use native timestamps for timestep",
+    "official_cli_color_order": "OpenCV imread BGR; RGB source arrays may be reversibly channel-reordered to reproduce this interface",
+    "timestep": "(center_pts_time-left_pts_time)/(right_pts_time-left_pts_time), not unconditional 0.5 for VFR",
+    "scale": 1.0,
+    "native_model_scale_list": [4, 2, 1],
+    "padding": "Pad right/bottom to multiple of 32 then crop prediction back to original H,W; no input resize",
+    "output": "IFNet_m.forward returns flow_list, mask, merged, flow_teacher, merged_teacher, loss_distill; use merged[2] as auxiliary predicted center",
+    "teacher_branch": "Not activated for six-channel input (no center/GT image supplied)",
+    "native_1080p_and_4k": "No fixed H/W in static architecture; actual memory, runtime and successful forward not yet measured",
+    "do_not_use": [
+      "Practical-RIFE inference_img.py has an unconditional 448x256 resize for ordinary images",
+      "ECCV2022-RIFE inference_video.py has SSIM-dependent frame handling and UHD scale override; avoid video CLI",
+      "Original Model.load_model uses torch.load without explicit weights_only or map_location; use an audited restricted-load wrapper",
+      "Do not replace, insert, drop, smooth, re-encode or retime any original frame",
+      "Do not supply observed center pixels to the inference input or teacher branch"
+    ]
+  },
+  "execution_limits": {
+    "dependencies_installed": false,
+    "external_repository_code_executed": false,
+    "gpu_used": false,
+    "training_performed": false,
+    "original_pipeline_modified": false,
+    "large_additional_models_downloaded": false
+  }
+}

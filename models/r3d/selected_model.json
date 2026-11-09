@@ -1,0 +1,27 @@
+{
+  "schema_version": "1.0.0",
+  "selection_status": "frozen_before_test",
+  "selection_basis": "validation_only",
+  "selected_checkpoint": "checkpoint-0002/model.pt",
+  "selected_checkpoint_sha256": "dd1ebcdd489d67c04a0f036b995db03e398ebc4e3428505fafc9875d1d93148d",
+  "frozen_video_threshold": 0.5068240265051523,
+  "video_aggregation": "mean_top_3_window_probabilities",
+  "window_frames": 32,
+  "window_stride": 8,
+  "stem_spatial_stride": 4,
+  "model_branch": "global",
+  "selection_metrics": {
+    "accuracy": 0.97,
+    "f1": 0.9690721649484536,
+    "roc_auc": 0.9836,
+    "recall": 0.94,
+    "specificity": 1.0,
+    "moving_clean_specificity": 1.0,
+    "mean_coarse_temporal_iou_positive": 0.9075555555555556
+  },
+  "test_manifest": "/mnt/d/VRFlickerLab/model_training/qwen25_vl_flicker_visual_v1/v5_native_pixel_masks_v1/test.jsonl",
+  "test_manifest_sha256": "522329fd4e41933ec554907c92a401b4dac62bd77133e1c6858baf632b910926",
+  "test_used_during_selection": false,
+  "real_gt_used_during_selection": false,
+  "note": "Checkpoint and threshold were frozen after Validation comparison and before the first Test inference."
+}

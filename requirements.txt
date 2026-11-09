@@ -1,0 +1,12 @@
+# Versions used for package validation. Linux/WSL; CUDA-enabled torch required.
+torch==2.11.0
+torchvision==0.26.0
+numpy==2.2.6
+av==17.0.1
+transformers==5.13.0
+safetensors==0.8.0
+opencv-python==4.13.0.92
+scipy==1.15.3
+Pillow==12.2.0
+huggingface-hub==1.23.0
+tokenizers==0.22.2

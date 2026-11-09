@@ -1,0 +1,1 @@
+{"passed":true,"passed_modes":["inplace","recompute"],"adapter_sha256":"712ff371fb27e5c0115e40d029f7650c38664c27f6f06fb35652b63c591c9c9b","torchvision_raft_sha256":"1d89f39616e3b8e89f56cbdc813e6707793a5116b331746cf80b0450e9e8cd38","frozen_producer_sha256":"170456e49ba01637ec5031d61a97d9cb36ca53c22c13002dd47104fa46cffb5a","max_chunk_bytes":268435456}
